@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**](https://reactnative.dev) React Native CLI project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
@@ -63,6 +63,20 @@ You've successfully run and modified your React Native App. :partying_face:
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+
+### Inside src you will see the below components
+
+- Navigation
+- Redux
+- Screens
+- Components
+- Constants
+- Utils
+  
+### I have not used any navigation, i have created a custom Tab bar like view
+
+- This we reduce the use of navigation and Stack/Tab navigation
+- This will reduce the bundle size of our app
 
 # Troubleshooting
 

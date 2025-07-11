@@ -12,6 +12,13 @@
 - This we reduce the use of navigation and Stack/Tab navigation
 - This will reduce the bundle size of our app
 
+### Video Recording
+
+
+
+https://github.com/user-attachments/assets/aaaf376b-7e1e-49b1-932f-5b644192b0d9
+
+
   
 ### iOS Screenshot
 <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-10 at 23 04 06" src="https://github.com/user-attachments/assets/383e3b79-4a69-4197-98df-fe15b48980e0" />

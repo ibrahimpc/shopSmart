@@ -1,3 +1,33 @@
+### Inside src you will see the below components
+
+- Navigation
+- Redux
+- Screens
+- Components
+- Constants
+- Utils
+  
+### I have not used any navigation, i have created a custom Tab bar like view
+
+- This we reduce the use of navigation and Stack/Tab navigation
+- This will reduce the bundle size of our app
+
+  
+### iOS Screenshot
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-10 at 23 04 06" src="https://github.com/user-attachments/assets/383e3b79-4a69-4197-98df-fe15b48980e0" />
+
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-10 at 23 04 17" src="https://github.com/user-attachments/assets/f0b7d236-3214-46ed-8ef2-c2e2cc42f62e" />
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-10 at 23 03 48" src="https://github.com/user-attachments/assets/356dda46-e6d1-4431-bc96-a56cf1d77686" />
+
+### Android Screenshot
+
+![WhatsApp Image 2025-07-11 at 4 13 31 AM](https://github.com/user-attachments/assets/20c077b4-59a8-45a2-bcc1-c84eff39b22b)
+![WhatsApp Image 2025-07-11 at 4 13 31 AM (1)](https://github.com/user-attachments/assets/d41330f4-5167-4384-8428-32c01e98128a)
+![WhatsApp Image 2025-07-11 at 4 13 31 AM (2)](https://github.com/user-attachments/assets/fe28a735-ad83-4adf-8dc7-e6c2f1faa804)
+
+
 This is a new [**React Native**](https://reactnative.dev) React Native CLI project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -64,19 +94,7 @@ You've successfully run and modified your React Native App. :partying_face:
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
 
-### Inside src you will see the below components
 
-- Navigation
-- Redux
-- Screens
-- Components
-- Constants
-- Utils
-  
-### I have not used any navigation, i have created a custom Tab bar like view
-
-- This we reduce the use of navigation and Stack/Tab navigation
-- This will reduce the bundle size of our app
 
 # Troubleshooting
 
